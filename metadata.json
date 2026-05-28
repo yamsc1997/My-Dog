@@ -1,0 +1,6 @@
+{
+  "name": "Guardería Mascotas Estrellas",
+  "description": "Dirige la academia definitiva de mascotas estrellas en Vecindario junto a Mariama Kujabi. Entrena mascotas, diseña looks divertidos y hazlas virales gracias a la Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
